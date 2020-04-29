@@ -3,11 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://gotcodeing.com/categories/</loc>
+    <loc>http://gotcodeing.com/about/</loc>
+    <lastmod>2020-04-29T15:19:53+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://gotcodeing.com/</loc>
+    <lastmod>2020-04-29T15:19:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gotcodeing.com/categories/</loc>
   </url>
   
   <url>
